@@ -1,0 +1,62 @@
+.working-info {
+    background: none;
+    padding: 0;
+    position: relative;
+    z-index: 99;
+    bottom: 100px;
+}
+
+.cleaning-content-block {
+    padding: 50px;
+}
+
+.single-slider-item {
+    height: 550px;
+}
+
+.single-slider-item h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.why-choose-us {
+    padding-top: 20px;
+}
+
+.achivment-section {
+    padding: 65px 0 0;
+}
+
+.shop-item-block .shop-single-item {
+    height: 150px;
+}
+
+.shop-item-block.product {
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.shop-item-block h3 {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.shop-item-block span {
+    margin: 0 0 10px;
+}
+
+.shop-item-block .shop-single-item {
+    background-size: cover;
+}
+
+.bg-danger-hover:hover {
+    background: #dc3545 !important;
+}
+
+.bg-white-hover:hover {
+    background: #ffffff !important;
+}
+
+.text-dark {
+    color: #000000 !important;
+}
